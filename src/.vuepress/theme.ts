@@ -12,7 +12,7 @@ export default hopeTheme({
     name: "dongkcs",
     url: "https://x-x.com",
   },
-
+  favicon: "/favicon.ico",
   iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
 
   logo: "/logo.svg",
